@@ -1,0 +1,6 @@
+www:
+  type: python
+  approot: root
+db:
+  type: mysql
+
